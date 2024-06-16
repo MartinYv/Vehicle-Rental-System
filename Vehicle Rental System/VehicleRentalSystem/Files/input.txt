@@ -1,0 +1,3 @@
+﻿John, Doe, 2024-06-03, 2024-06-13, 3, Car, Mitsubishi, Mirage, 15000, 2024-06-13
+Mary, Jhonson, 2024-06-03, 2024-06-13, 20, Motorcycle, Triumph, Tiger Sport 660, 10000, 2024-06-13
+John, Markson, 2024-06-03, 2024-06-18, 8, Cargovan, Citroen, Jumper, 20000, 2024-06-13

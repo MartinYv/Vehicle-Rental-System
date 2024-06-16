@@ -1,0 +1,74 @@
+XXXXXXXXXX
+A car valued at 15000$ and has a security rating of 3
+
+Date: 2024-06-13
+Customer name: John Doe
+Rented Vehicle: Mitsubishi Mirage
+
+Reservation start date: 2024-06-03
+Reservation end date: 2024-06-13
+Reserved rental days: 10
+
+Actual return date: 2024-06-13
+Actual rental days: 10
+
+Rent cost per day: $15.00
+Insurance per day: $1.50
+
+Total rent: $150.00$
+Total insurance: $15.00$
+Total: $165.00
+XXXXXXXXXX
+
+XXXXXXXXXX
+A motorcycle valued at 10000$ and the driver is 20 old
+
+Date: 2024-06-13
+Customer name: Mary Jhonson
+Rented Vehicle: Triumph Tiger Sport 660
+
+Reservation start date: 2024-06-03
+Reservation end date: 2024-06-13
+Reserved rental days: 10
+
+Actual return date: 2024-06-13
+Actual rental days: 10
+
+Rent cost per day: $10.00
+Initial insurance per day: $2.00
+Insurance addition per day: $0.40
+Insurance per day: $2.40
+
+Total rent: $100.00$
+Total insurance: $24.00$
+Total: $124.00
+XXXXXXXXXX
+
+XXXXXXXXXX
+A cargo van valued at 20000$ and the driver has 8 years of driving experience
+
+Date: 2024-06-13
+Customer name: John Markson
+Rented Vehicle: Citroen Jumper
+
+Reservation start date: 2024-06-03
+Reservation end date: 2024-06-18
+Reserved rental days: 15
+
+Actual return date: 2024-06-13
+Actual rental days: 10
+
+Rent cost per day: $40.00
+Initial insurance per day: $6.00
+Insurance discount per day: $0.90
+Insurance per day: $5.10
+
+Early discount for rent: $100.00
+Early discount for insurance: $25.50
+
+Total rent: $500.00$
+Total insurance: $51.00$
+Total: $551.00
+XXXXXXXXXX
+
+All of the invoices are printed or input it's not provided.
